@@ -108,7 +108,12 @@ input[type="checkbox"]:checked {
 .font {
   font-size: 12px;
   cursor: pointer;
+  padding-right: 130px;
 }
 .font-1 {
   margin-top: 25px;
+}
+.back-font {
+  font-size: 12px;
+  cursor: pointer;
 }

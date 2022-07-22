@@ -1,0 +1,67 @@
+body {
+  background-color: rgb(255, 255, 66);
+}
+input:focus {
+  outline: none;
+}
+.sign-box {
+  width: 450px;
+  height: 500px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 70px;
+  border-radius: 10px;
+}
+.kakao {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 650;
+}
+.all {
+  display: flex;
+  justify-content: center;
+}
+.email {
+  width: 280px;
+  height: 30px;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  font-size: 13px;
+}
+.password {
+  width: 280px;
+  height: 30px;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  font-size: 13px;
+}
+.password-ch {
+  width: 280px;
+  height: 30px;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  font-size: 13px;
+}
+.id {
+  width: 280px;
+  height: 30px;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  font-size: 13px;
+}
+.join {
+  width: 280px;
+  height: 50px;
+  background-color: #fee500;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.font2 {
+  font-size: 15px;
+}
